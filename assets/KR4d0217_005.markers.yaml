@@ -137,6 +137,7 @@ markers:
   - {type: line-break, offset: 388, content: '', id: KR4d0217_WYG_005-2b01}
   - {type: indent, offset: 388, content: 　　　, id: KR4d0217_krp_005-bkkind10}
   - {type: punctuation, offset: 392, content: (, id: KR4d0217_krp_005-bkkpn1}
+  - {type: voice, offset: 392, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 394, content: /, id: KR4d0217_krp_005-bkkpn2}
   - {type: punctuation, offset: 394, content: ), id: KR4d0217_krp_005-bkkpn3}
   - {type: 'kr:newline', offset: 394, content: '
@@ -850,6 +851,7 @@ markers:
       ', id: KR4d0217_krp_005-bkkkrnewl180}
   - {type: line-break, offset: 2605, content: '', id: KR4d0217_WYG_005-11a01}
   - {type: punctuation, offset: 2612, content: (, id: KR4d0217_krp_005-bkkpn4}
+  - {type: voice, offset: 2612, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 2617, content: /, id: KR4d0217_krp_005-bkkpn5}
   - {type: substitution, offset: 2617, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 2622, content: ), id: KR4d0217_krp_005-bkkpn6}
@@ -1009,6 +1011,7 @@ markers:
       ', id: KR4d0217_krp_005-bkkkrnewl213}
   - {type: line-break, offset: 3042, content: '', id: KR4d0217_WYG_005-12b07}
   - {type: punctuation, offset: 3056, content: (, id: KR4d0217_krp_005-bkkpn7}
+  - {type: voice, offset: 3056, length: 21, name: note, id: n3}
   - {type: substitution, offset: 3058, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: punctuation, offset: 3063, content: /, id: KR4d0217_krp_005-bkkpn8}
   - {type: punctuation, offset: 3070, content: ), id: KR4d0217_krp_005-bkkpn9}
@@ -1113,4 +1116,4 @@ markers:
 
       ', id: KR4d0217_krp_005-bkkkrnewl233}
   back: []
-hash: sha256:0fa5bb2697b709176386f68c7afee291b41236885e24905495f9f0c4f090e130
+hash: sha256:814ba40f5019353ea4634682b2eecbd528f48b207855afbd294a4e688a338565
